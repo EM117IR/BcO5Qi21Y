@@ -171,7 +171,6 @@
 * Added CSS to automatically wrap links that overflow
 * Fixed URL error checking for raw GitHub Gists
 * Do not overwrite existing target attribute in Markdown links
-* Properly pass URL parameter values when configuring the default values of the Docsify-This Web Page Builder
 * Added CSS to automatically wrap code blocks that overflow
 * Added CSS to better vertically align 'Edit this Page' emoji and text
 
